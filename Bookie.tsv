@@ -1,4 +1,4 @@
-Year	.	Value
+Year	Trips	Value
 2002	Distance Travelled	1396
 2003	Distance Travelled	1420
 2004	Distance Travelled	1422
@@ -45,3 +45,4 @@ Year	.	Value
 2022	Trips Taken	110
 2023	Trips Taken	109
 2024	Trips Taken	103
+

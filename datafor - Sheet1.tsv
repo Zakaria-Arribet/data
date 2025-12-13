@@ -1,0 +1,208 @@
+Year	Type of Trip	Trips Taken
+2002	Commuting	164
+2003	Commuting	166
+2004	Commuting	170
+2005	Commuting	162
+2006	Commuting	162
+2007	Commuting	164
+2008	Commuting	158
+2009	Commuting	147
+2010	Commuting	150
+2011	Commuting	148
+2012	Commuting	147
+2013	Commuting	146
+2014	Commuting	148
+2015	Commuting	144
+2016	Commuting	144
+2017	Commuting	144
+2018	Commuting	144
+2019	Commuting	140
+2020	Commuting	91
+2021	Commuting	100
+2022	Commuting	119
+2023	Commuting	117
+2024	Commuting	111
+2002	Shopping	222
+2003	Shopping	215
+2004	Shopping	214
+2005	Shopping	212
+2006	Shopping	225
+2007	Shopping	191
+2008	Shopping	202
+2009	Shopping	196
+2010	Shopping	197
+2011	Shopping	194
+2012	Shopping	191
+2013	Shopping	184
+2014	Shopping	178
+2015	Shopping	182
+2016	Shopping	183
+2017	Shopping	189
+2018	Shopping	188
+2019	Shopping	181
+2020	Shopping	141
+2021	Shopping	133
+2022	Shopping	151
+2023	Shopping	169
+2024	Shopping	167
+2002	Visiting friends at private home	125
+2003	Visiting friends at private home	122
+2004	Visiting friends at private home	121
+2005	Visiting friends at private home	125
+2006	Visiting friends at private home	121
+2007	Visiting friends at private home	112
+2008	Visiting friends at private home	110
+2009	Visiting friends at private home	111
+2010	Visiting friends at private home	102
+2011	Visiting friends at private home	105
+2012	Visiting friends at private home	103
+2013	Visiting friends at private home	96
+2014	Visiting friends at private home	92
+2015	Visiting friends at private home	89
+2016	Visiting friends at private home	90
+2017	Visiting friends at private home	88
+2018	Visiting friends at private home	84
+2019	Visiting friends at private home	82
+2020	Visiting friends at private home	64
+2021	Visiting friends at private home	68
+2022	Visiting friends at private home	72
+2023	Visiting friends at private home	74
+2024	Visiting friends at private home	76
+2002	Sports	19
+2003	Sports	20
+2004	Sports	19
+2005	Sports	17
+2006	Sports	16
+2007	Sports	18
+2008	Sports	20
+2009	Sports	20
+2010	Sports	18
+2011	Sports	17
+2012	Sports	15
+2013	Sports	14
+2014	Sports	13
+2015	Sports	13
+2016	Sports	14
+2017	Sports	14
+2018	Sports	14
+2019	Sports	13
+2020	Sports	10
+2021	Sports	10
+2022	Sports	12
+2023	Sports	16
+2024	Sports	18
+2002	Walking	41
+2003	Walking	41
+2004	Walking	40
+2005	Walking	45
+2006	Walking	46
+2007	Walking	40
+2008	Walking	46
+2009	Walking	46
+2010	Walking	44
+2011	Walking	46
+2012	Walking	46
+2013	Walking	43
+2014	Walking	42
+2015	Walking	46
+2016	Walking	55
+2017	Walking	57
+2018	Walking	62
+2019	Walking	61
+2020	Walking	114
+2021	Walking	106
+2022	Walking	91
+2023	Walking	86
+2024	Walking	85
+2002	Day trip	23
+2003	Day trip	24
+2004	Day trip	24
+2005	Day trip	28
+2006	Day trip	27
+2007	Day trip	28
+2008	Day trip	29
+2009	Day trip	28
+2010	Day trip	28
+2011	Day trip	30
+2012	Day trip	27
+2013	Day trip	28
+2014	Day trip	29
+2015	Day trip	28
+2016	Day trip	29
+2017	Day trip	35
+2018	Day trip	33
+2019	Day trip	32
+2020	Day trip	45
+2021	Day trip	36
+2022	Day trip	34
+2023	Day trip	36
+2024	Day trip	39
+2002	Visiting friends elsewhere	50
+2003	Visiting friends elsewhere	49
+2004	Visiting friends elsewhere	46
+2005	Visiting friends elsewhere	50
+2006	Visiting friends elsewhere	52
+2007	Visiting friends elsewhere	50
+2008	Visiting friends elsewhere	48
+2009	Visiting friends elsewhere	49
+2010	Visiting friends elsewhere	48
+2011	Visiting friends elsewhere	46
+2012	Visiting friends elsewhere	45
+2013	Visiting friends elsewhere	45
+2014	Visiting friends elsewhere	47
+2015	Visiting friends elsewhere	48
+2016	Visiting friends elsewhere	50
+2017	Visiting friends elsewhere	49
+2018	Visiting friends elsewhere	53
+2019	Visiting friends elsewhere	48
+2020	Visiting friends elsewhere	24
+2021	Visiting friends elsewhere	26
+2022	Visiting friends elsewhere	41
+2023	Visiting friends elsewhere	48
+2024	Visiting friends elsewhere	50
+2002	All trips per person per year	1,074
+2003	All trips per person per year	1,060
+2004	All trips per person per year	1,054
+2005	All trips per person per year	1,070
+2006	All trips per person per year	1,067
+2007	All trips per person per year	998
+2008	All trips per person per year	1,014
+2009	All trips per person per year	997
+2010	All trips per person per year	982
+2011	All trips per person per year	972
+2012	All trips per person per year	971
+2013	All trips per person per year	943
+2014	All trips per person per year	942
+2015	All trips per person per year	934
+2016	All trips per person per year	954
+2017	All trips per person per year	975
+2018	All trips per person per year	986
+2019	All trips per person per year	953
+2020	All trips per person per year	739
+2021	All trips per person per year	757
+2022	All trips per person per year	862
+2023	All trips per person per year	915
+2024	All trips per person per year	922
+2002	Leisure	277
+2003	Leisure	273
+2004	Leisure	271
+2005	Leisure	283
+2006	Leisure	278
+2007	Leisure	268
+2008	Leisure	263
+2009	Leisure	264
+2010	Leisure	254
+2011	Leisure	257
+2012	Leisure	252
+2013	Leisure	244
+2014	Leisure	243
+2015	Leisure	241
+2016	Leisure	248
+2017	Leisure	252
+2018	Leisure	255
+2019	Leisure	247
+2020	Leisure	173
+2021	Leisure	178
+2022	Leisure	221
+2023	Leisure	243
+2024	Leisure	255
